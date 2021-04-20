@@ -8,3 +8,4 @@ addListBtn.addEventListener('click', function () {
   newLi.appendChild(liContent)
   userList.appendChild(newLi)
 })
+console.log('done')
