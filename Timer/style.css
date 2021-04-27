@@ -1,0 +1,11 @@
+button {
+  width: 200px;
+  height: 100px;
+  font-size: 32px;
+}
+.warning {
+  color: red;
+}
+h1 {
+  font-size: 48px;
+}
